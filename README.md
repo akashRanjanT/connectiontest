@@ -9,3 +9,6 @@ Added number 1
 This is number 2
 Added number 2
 This is number 3
+
+Added number 3
+This is number 4
