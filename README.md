@@ -18,3 +18,6 @@ This IS number 5
 
 Added number 5
 This is number 6
+
+Added number 6
+This is number seven
