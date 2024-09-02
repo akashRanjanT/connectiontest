@@ -7,3 +7,5 @@ This is number 1
 
 Added number 1
 This is number 2
+Added number 2
+This is number 3
