@@ -1,0 +1,6 @@
+document
+hello world
+
+red
+yellow
+green
